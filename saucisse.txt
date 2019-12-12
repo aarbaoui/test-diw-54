@@ -4,3 +4,5 @@ Par ailleurs, il en existe un certain nbr de variétés.
 
 
 Les saucisses peuveut être préparés à partir de viandes provenant de divers animaux.
+
+Il faut modifier le document
